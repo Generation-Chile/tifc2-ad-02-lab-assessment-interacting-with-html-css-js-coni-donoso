@@ -2,4 +2,18 @@ html {
     height: 100%;
     width: 100%;
   }
+.image{
+    width: 400px;
+  }
   
+h1{
+    color: green;
+  }
+
+#rojo{
+  color: red;
+}
+
+.azul{
+  color: blue;
+}
